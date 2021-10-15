@@ -1,0 +1,27 @@
+.conteiner{
+    height: 100vh;
+}
+.row{
+    height: 100%;
+}
+#num1{
+    background-color: blue;
+    font-size: 30px;
+
+
+    text-align: center;
+}
+#num2{
+    background-color: yellow;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+#num3{
+    background-color: red;
+    font-size: 30px;
+
+
+    text-align: center;
+}
